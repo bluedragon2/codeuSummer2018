@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CodeU Chat App</title>
+  <title>My own CodeU Chat App</title>
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
